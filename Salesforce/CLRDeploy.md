@@ -73,7 +73,7 @@ Example :=
 
 ![[Pasted image 20250221192536.png]]
 
-## How to Create Commit ID ?
+## How to Create Branch?
 
 - **Step1:** Click to ==REPOS Icon== in the Left Side Bar as Shown in the Below Screenshot
 

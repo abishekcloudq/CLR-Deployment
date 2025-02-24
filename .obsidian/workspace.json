@@ -11,10 +11,14 @@
             "id": "1682b1475577069c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Salesforce/CLRDeploy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CLRDeploy"
             }
           }
         ]
@@ -175,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32ab135593f53252",
+  "active": "1682b1475577069c",
   "lastOpenFiles": [
-    "Salesforce/CLRDeploy.md",
     "Salesforce/CLR-Deployment/CLRDeploy.md",
+    "Salesforce/CLRDeploy.md",
     "Salesforce/CLRDeploy 1.md",
     "Salesforce/CLR-Deployment",
     "ADO_Ticket.png.md",
