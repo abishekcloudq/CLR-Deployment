@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a12872e7cf8feed",
+        "id": "fb093e94fe54acbd",
         "type": "tabs",
         "children": [
           {
-            "id": "1682b1475577069c",
+            "id": "7b361a89cec36fe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Salesforce/CLRDeploy.md",
+                "file": "Salesforce/Salesforce Data Security Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLRDeploy"
+              "title": "Salesforce Data Security Model"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salesforce/CLR DEPLOYMENT.md",
+                "file": "Salesforce/Salesforce Data Security Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLR DEPLOYMENT"
+              "title": "Outgoing links from Salesforce Data Security Model"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/CLR DEPLOYMENT.md",
+                "file": "Salesforce/Salesforce Data Security Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLR DEPLOYMENT"
+              "title": "Outline of Salesforce Data Security Model"
             }
           },
           {
@@ -179,25 +179,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1682b1475577069c",
+  "active": "32ab135593f53252",
   "lastOpenFiles": [
+    "Media/Pasted image 20250303152802.png",
+    "Media/Pasted image 20250303153023.png",
+    "Salesforce/Salesforce Data Security Model.md",
+    "Media/Pasted image 20250303153116.png",
+    "Media/Pasted image 20250303151615.png",
+    "Pasted image 20250303151506.png",
+    "Salesforce/CLRDeploy.md",
     "Release_Date.png.md",
     "Media/Pasted image 20250221142044.png",
     "Media/Pasted image 20250221142204.png",
     "Media/Pasted image 20250221145129.png",
     "Media/Pasted image 20250224181050.png",
-    "Salesforce/CLRDeploy.md",
     "Salesforce/CLR-Deployment/CLRDeploy.md",
     "Salesforce/CLRDeploy 1.md",
     "Salesforce/CLR-Deployment",
     "ADO_Ticket.png.md",
     "ADO.md",
     "Media/Pasted image 20250224181046.png",
-    "Media/Pasted image 20250224181038.png",
-    "Media/Pasted image 20250224181030.png",
-    "Media/Pasted image 20250224181015.png",
-    "Media/Pasted image 20250224180959.png",
-    "Media/Pasted image 20250224180736.png",
     "Media",
     "New folder",
     "ADO Ticket.md",
