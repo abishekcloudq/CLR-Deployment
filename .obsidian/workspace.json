@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Salesforce/Salesforce Data Security Model.md",
+                "file": "Data Security Model/Salesforce Data Security Model.md",
                 "mode": "source",
                 "source": false
               },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Salesforce/Salesforce Data Security Model.md",
+                "file": "Data Security Model/Salesforce Data Security Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Salesforce Data Security Model.md",
+                "file": "Data Security Model/Salesforce Data Security Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,9 +181,10 @@
   },
   "active": "32ab135593f53252",
   "lastOpenFiles": [
+    "Data Security Model",
     "Media/Pasted image 20250303152802.png",
     "Media/Pasted image 20250303153023.png",
-    "Salesforce/Salesforce Data Security Model.md",
+    "Data Security Model/Salesforce Data Security Model.md",
     "Media/Pasted image 20250303153116.png",
     "Media/Pasted image 20250303151615.png",
     "Pasted image 20250303151506.png",
