@@ -22,17 +22,20 @@ Before allowing a user access, Salesforce first verifies that the ==user has per
 
 ### 1.1 Profiles
 
-In Salesforce, profiles have historically been the way to control access to object-level and field-level security. However, since permission sets were released, we recommend to use them as the primary way to configure object and field permissions, together with permission set groups. Note that assigning each user a profile is still compulsory, as this is the place where you configure other things like page layout assignments or login IP restrictions. However, for object and field security setup, configure profiles for minimum access and use permission sets and permission set groups to add permissions.
+> [!NOTE]
+> In Salesforce, profiles have historically been the way to control access to object-level and field-level security. However, since permission sets were released, ==we recommend to use them as the primary way to configure object and field permissions, together with permission set groups==. ==Note that assigning each user a profile is still compulsory==, as this is the place where you configure other things like page layout assignments or login IP restrictions. However, for object and field security setup, configure profiles for minimum access and use permission sets and permission set groups to add permissions.
 
 ### 1.2 Permission sets and Permission Set Groups
 
 Since Maria is a new employee, an admin needs to assign Maria to the appropriate permission sets that grant her access to the sales apps and related objects.
 
-We recommend permission sets as the primary way to assign object and field permissions. Here’s why:
-
-- They are more flexible.
-- They are packageable.
-- They are upgradeable too.
+> [!IMPORTANT]
+> We recommend permission sets as the primary way to assign object and field permissions. Here’s why:
+> 
+> - They are more flexible.
+> - They are packageable.
+> - They are upgradeable too.
+> 
 
 While packageability and upgradeability are self-explanatory, let’s look at how permission sets and permission set groups are more flexible. In contrast to profiles, you can add multiple permission sets to a given user. This gives you much more flexibility at the time of designing your security model, as functionality can be grouped in more granular ways. When only using profiles, you needed to group all the object and field permissions in a single profile, for instance for a concrete job role, as sales exec. With permission sets you can have different permission sets representing the different tasks that that a sales exec performs: manage leads, approve opportunities, etc. and add or remove smaller chunks of permissions to a user at any time.
 
