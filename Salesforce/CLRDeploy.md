@@ -176,4 +176,4 @@ Make sure we've given the ADO Ticket Number in the Commit filed and give what yo
 - We need to ==create an ADO Ticket== and in the Release note we need to mention the commit ID and what are all the changes and classes level or in created custom label also.
 - we should ==clone== the repository in to our VS Code and make the changes and then commit
 - We Should give the Description if we have any classes level changes in by comma-separated
-- ==Test Class Code Coverage== will be Validated in prod also based on the ==Description== given while validating against the Prod Org
+- ==Test Class Code Coverage== will be Validated in prod also based on the ==Description== given while validating against the Prod Org.
